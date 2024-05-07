@@ -1,6 +1,7 @@
 # XOX Board Game Project
 
-This project is the implementation of the XOX (Tic Tac Toe) board game using Python. It utilizes various libraries including Pygame, Tkinter, Socket, Thread, etc.
+Multiplayer XOX (Tic Tac Toe) board game using Python. 
+It utilizes various libraries including Pygame, Tkinter, Socket, Thread, etc.
 
 ## Team
 

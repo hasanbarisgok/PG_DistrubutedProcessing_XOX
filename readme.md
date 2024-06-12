@@ -20,3 +20,16 @@ It utilizes various libraries including Pygame, Tkinter, Socket, Thread, etc.
 - Socket
 - Thread
 - Other necessary libraries (depending on requirements)
+
+## How To Use:
+
+- Download the files.
+- Firstly, open the server.py file, with python server.py. It creates a server.
+- After that, open the player.py file, with python player.py. It connects ot server, which is created from server.py file.
+- You can enjoy the game, after there is two players in the server.
+- Note that if there is less two players in the server, you can not start to play.
+
+# Game Rules:
+
+- If 5 X's or 5 O's come next to each other, the game is over. Because there is 10 matrix.
+- Player 1: X, Player 2: O

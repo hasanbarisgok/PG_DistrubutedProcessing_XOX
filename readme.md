@@ -29,7 +29,10 @@ It utilizes various libraries including Pygame, Tkinter, Socket, Thread, etc.
 - You can enjoy the game, after there is two players in the server.
 - Note that if there is less two players in the server, you can not start to play.
 
-# Game Rules:
+## Game Rules:
 
 - If 5 X's or 5 O's come next to each other, the game is over. Because there is 10 matrix.
 - Player 1: X, Player 2: O
+
+## Documentation (it also includes flow-chart.):
+[DistributedProcessing_TicTacToe.pdf](https://github.com/user-attachments/files/15804668/DistributedProcessing_TicTacToe.pdf)

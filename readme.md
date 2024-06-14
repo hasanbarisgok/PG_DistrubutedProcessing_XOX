@@ -19,7 +19,6 @@ It utilizes various libraries including Pygame, Tkinter, Socket, Thread, etc.
 - Tkinter
 - Socket
 - Thread
-- Other necessary libraries (depending on requirements)
 
 ## How To Use:
 

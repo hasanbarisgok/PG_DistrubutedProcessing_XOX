@@ -30,7 +30,7 @@ It utilizes various libraries including Pygame, Tkinter, Socket, Thread, etc.
 
 ## Game Rules:
 
-- If 5 X's or 5 O's come next to each other, the game is over. Because there is 10 matrix.
+- If 5 X's or 5 O's come next to each other, the game is over. Because there is 10 matrix. (Vertical, Horizontal, or Diagonal)
 - Player 1: X, Player 2: O
 
 ## Documentation (it also includes flow-chart.):
